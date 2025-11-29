@@ -39,15 +39,15 @@
 
 #### Frontend
 
-<img src="https://skillicons.dev/icons?i=js,vue,react,tailwind,html,css&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=js,vue,react,tailwind,html,css,bootstrap&theme=dark" alt="Frontend"/>
 
 #### DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=docker,gitlab,linux,git,nginx&theme=dark" alt="DevOps"/>
+<img src="https://skillicons.dev/icons?i=docker,gitlab,githubactions,linux,ubuntu,nginx,git&theme=dark" alt="DevOps"/>
 
 #### IDEs & Herramientas
 
-<img src="https://skillicons.dev/icons?i=vscode,phpstorm,postman&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,phpstorm,postman,figma,notion&theme=dark" alt="Tools"/>
 
 </div>
 
@@ -82,7 +82,13 @@
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexder14&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Alexder14)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexder14&theme=tokyonight)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexder14&theme=tokyonight" width="320" alt="Repos por lenguaje"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alexder14&theme=tokyonight" width="320" alt="Commits por lenguaje"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexder14&theme=tokyonight" width="320" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alexder14&theme=tokyonight&utcOffset=-6" width="320" alt="Hora productiva"/>
 
 </div>
 
