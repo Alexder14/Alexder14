@@ -1,56 +1,80 @@
 <div align="center">
 
-# Hola, soy Alex 👋
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
+
+# Hola, soy Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 ### Desarrollador Fullstack | Laravel & PHP | Sistemas Universitarios
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](tu-link)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu-email)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Alexder14&color=blueviolet&style=flat)
+
 </div>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="Coding"/>
+
+### 🚀 Sobre mí
+
+- 🎓 Especializado en sistemas académicos
+- 🔗 Integración con APIs financieras
+- ⚙️ DevOps: CI/CD, Docker, servidores
+- 📚 Aprendiendo diseño de compiladores
+- 💬 Pregúntame sobre **Laravel, PHP, Docker**
+
+<br clear="right"/>
 
 ---
 
 ### 🛠️ Tech Stack
 
+<div align="center">
+
 #### Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,laravel,symfony,postgres,mysql&theme=dark" alt="Backend"/>
 
 #### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,vue,react,tailwind,html,css&theme=dark" alt="Frontend"/>
 
 #### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,gitlab,linux,git,nginx&theme=dark" alt="DevOps"/>
+
+#### IDEs & Herramientas
+
+<img src="https://skillicons.dev/icons?i=vscode,phpstorm,postman&theme=dark" alt="Tools"/>
+
+</div>
 
 ---
 
 ### 💼 En qué trabajo
 
-🎓 Aplicaciones web para gestión académica y procesos de graduación  
-🔗 Integración con servicios externos (APIs financieras, sistemas institucionales)  
-⚙️ DevOps: pipelines CI/CD, contenedores, administración de servidores
+<div align="center">
+
+| 🎓 | 🔗 | ⚙️ |
+|:---:|:---:|:---:|
+| Sistemas académicos | APIs financieras | DevOps & CI/CD |
+| Procesos de graduación | Integraciones institucionales | Docker & servidores |
+
+</div>
 
 ---
 
 ### 🧠 Intereses
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Developer"/>
+
 🛠️ Diseño de compiladores y programación de sistemas
+
+</div>
 
 ---
 
@@ -58,7 +82,7 @@
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexder14&theme=tokyo-night&hide_border=true)](https://github.com/Alexder14)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexder14&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Alexder14)
 
 </div>
 
@@ -76,8 +100,10 @@
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=Alexder14&color=blueviolet&style=flat)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>Me encanta conectar con otros developers</b>
 
-*"El código limpio siempre parece escrito por alguien a quien le importa."*
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/Alexder14)
+
+**⭐ Si te gusta mi trabajo, considera darle una estrella a mis repos ⭐**
 
 </div>
