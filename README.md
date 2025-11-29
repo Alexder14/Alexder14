@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**Alexder14/Alexder14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador backend especializado en Laravel/PHP y sistemas universitarios.
 
-Here are some ideas to get you started:
+### Stack
+PHP · Laravel · PostgreSQL · MySQL · Docker · GitLab CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### En qué trabajo
+- Aplicaciones web para gestión académica y procesos de graduación
+- Integración con servicios externos (APIs financieras, sistemas institucionales)
+- DevOps: pipelines CI/CD, contenedores, administración de servidores
+
+### Intereses
+Diseño de compiladores y programación de sistemas.
