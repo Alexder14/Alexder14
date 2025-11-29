@@ -54,13 +54,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Actividad
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alexder14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alexder14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexder14&theme=tokyo-night&hide_border=true)](https://github.com/Alexder14)
 
 </div>
 
